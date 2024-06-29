@@ -1,0 +1,21 @@
+.title{
+  display: flex;
+  justify-content: space-between;
+}
+
+.dropdown{
+  display: flex;
+  gap: 10px;
+}
+
+.row{
+  margin: 60px;
+  justify-content: space-around;
+}
+
+.buttonflex{
+  display: flex;
+  justify-content: end;
+  gap: 20px;
+}
+
